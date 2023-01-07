@@ -1,0 +1,19 @@
+	['shelby20'] = {
+		['name'] = 'Shelby Super Snake - Penadra',
+        ['brand'] = 'Ford',
+        ['model'] = 'shelby20',
+        ['price'] = 65000,
+        ['category'] = 'Ford',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `shelby20`,
+        ['shop'] = '',
+	
+	['lanex400'] = {
+		['name'] = 'Evolution X FQ400 - Ava',
+        ['brand'] = 'Mitsubishi',
+        ['model'] = 'lanex400',
+        ['price'] = 61000,
+        ['category'] = 'Mitsubishi',
+        ['categoryLabel'] = 'Sports',
+        ['hash'] = `lanex400`,
+        ['shop'] = '',
